@@ -12,6 +12,10 @@
     "npm install i ": {
       "name": "npm install i ",
       "command": "npm install i "
+    },
+    "npx create-react-app Builiding-the-FrontEnd": {
+      "name": "npx create-react-app Builiding-the-FrontEnd",
+      "command": "npx create-react-app Builiding-the-FrontEnd"
     }
   }
 }
